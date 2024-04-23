@@ -4,4 +4,7 @@ generating a maze would be cool, so I did a little bit of reading about how maze
 the backtracking algorithm to traverse all cells in a 2D grid. The algorithm itself only takes less than 50 lines. The majority part in this code is animating
 the procedures.
 
+## Basic Requirement
+Pygame module is required. You can use [pip3 install pygame] to install the module. And I think that's all you need.
+
 ### FOR IOB ALGORITHM
