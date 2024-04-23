@@ -7,7 +7,8 @@ the procedures.
 ![plot](../test_maze.png)
 
 ## Basic Requirement
-Pygame module is required. You can use ```pip3 install pygame``` to install the module. And that's all you need.
+Pygame module is required. You can use ```pip3 install pygame``` to install the module. And that's all you need  
+Of course if you are only interested in the algorithm part, you can cut down all the visual parts without using pygame at all  
 ## How to interact
 Once you see the Pygame window pops up on your screen, you can do the following:  
 Hit ```Space``` key to see how grids are traversed stepwise.  
