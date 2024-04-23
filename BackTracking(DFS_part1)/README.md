@@ -35,4 +35,4 @@ https://www.jamisbuck.org/mazes/ A great place for maze-generating algorithms wi
 About backtracking https://web.stanford.edu/class/cs106b-8/lectures/backtracking-optimization/Lecture13.pdf  
 https://weblog.jamisbuck.org/2010/12/27/maze-generation-recursive-backtracking  
 For coding inspiration:  
-https://www.youtube.com/watch?v=Y37-gB83HKE I think his code is great to show you how efficient the code could be  
+https://www.youtube.com/watch?v=Y37-gB83HKE I think javidx9's code is a great way to show how efficient the code could be  
