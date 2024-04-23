@@ -7,10 +7,10 @@ the procedures.
 ## Basic Requirement
 Pygame module is required. You can use ```pip3 install pygame``` to install the module. And that's all you need.
 ## How to interact
-Once you saw the Pygame windows pops up on your screen, you do following:
-Hit ```Space``` key for stepwise see how grids are traversed
-Hit ```A``` key for an automated animation on how grids are traversed
-Hit ```P``` key to play with the maze
+Once you saw the Pygame windows pops up on your screen, you can do the following:\n
+Hit ```Space``` key for stepwise see how grids are traversed\n
+Hit ```A``` key for an automated animation on how grids are traversed\n
+Hit ```P``` key to play with the maze\n
 Once you close the window, there will be a screenshot of the final status of the maze
 ## How to adjust maze size
 Change ```grid_x``` and ```grid_y``` to the size you want. However, there might be limits (mostly due to display issues)
