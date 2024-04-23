@@ -4,4 +4,4 @@ generating a maze would be cool, so I did a little bit of reading about how maze
 the backtracking algorithm to traverse all cells in a 2D grid. The algorithm itself only takes less than 50 lines. The majority part in this code is animating
 the procedures.
 
-###FOR IOB ALGORITHM
+### FOR IOB ALGORITHM
