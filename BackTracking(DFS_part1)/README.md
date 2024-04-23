@@ -13,7 +13,7 @@ Of course if you are only interested in the algorithm part, you can cut down all
 Once you see the Pygame window pops up on your screen, you can do the following:  
 Hit ```Space``` key to see how grids are traversed stepwise.  
 Hit ```A``` key for an automated animation on how grids are traversed  
-Hit ```P``` key to play with the maze  
+Hit ```P``` key to play with the maze. Once you see the bulldog, you can use the arrow keys to move the bulldog in the maze  
 Once you close the window, there will be a screenshot of the final status of the maze
 ## How to adjust maze size
 Change ```grid_x``` and ```grid_y``` to the size you want. However, there might be limits (mostly due to display issues)  
