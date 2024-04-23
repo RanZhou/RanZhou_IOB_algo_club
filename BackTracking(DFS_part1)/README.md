@@ -17,7 +17,7 @@ Hit ```P``` key to play with the maze
 Once you close the window, there will be a screenshot of the final status of the maze
 ## How to adjust maze size
 Change ```grid_x``` and ```grid_y``` to the size you want. However, there might be limits (mostly due to display issues)  
-The random.seed was set for debugging purposes, so feel free to comment those out to get much more randomly results that surprise you  
+The random.seed was set for debugging purposes, so feel free to comment those out to get much more randomly generated results that surprise you  
 I haven't cleaned the debugging messages, which were all ```print()```. Feel free to comment those out if it bothers you.  
 To acquire the symbolic version of the maze in a plain text file. Please use standard I/O ```python3 MazeGen.py > OUTLOG``` to save the related information.  
 
