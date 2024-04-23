@@ -24,5 +24,8 @@ To acquire the symbolic version of the maze in a plain text file. Please use sta
 ## Use at your own risk
 By using the script, you're responsible for all potential damages to your software or hardware.
 
+## About the path
+Visited paths are saved as the order of how path was visited.  
+Still need some work to track the whole nodes+branches structure and turn them into a tree file.  
 ## FOR IOB ALGORITHM
 Happy Coding! Hope you like the bulldog. Woof!Woof!
